@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import { FlyMap } from './src/components/FlyMap';
+import { FlyMap } from '../src/components/FlyMap';
 
 // map 
   // shows past fly fishing spots, save them so they persist when closing and reopening app
